@@ -1,7 +1,6 @@
 # GithubforDeveloper
 ใช้สำหรับฝึกฝน Github โดย Born2Dev
 
-
 ## FAQ
 
 #### Question 1
